@@ -19,6 +19,10 @@ This repository serves as the central hub for all our projects and products. Her
 - Products that address real-world challenges using AI technologies
 - Active community support and collaboration
 
+## Libraries
+
+- [Localize AI](https://github.com/celsus-ai/localize#readme): The `celsus-ai/localize` is an npm package that enables easy localization of your applications using OpenAI
+
 ## Getting Started
 
 To get started with the Celsus-AI Organization and explore our projects, follow these steps:
