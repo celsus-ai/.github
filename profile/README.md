@@ -21,7 +21,7 @@ This repository serves as the central hub for all our projects and products. Her
 
 ## Libraries
 
-- [Localize AI](https://github.com/celsus-ai/localize#readme): The `celsus-ai/localize` is an npm package that enables easy localization of your applications using OpenAI
+- <strong><u>Localization:</u></strong> The [`celsus-ai/localize`](https://www.npmjs.com/package/@celsus-ai/localize#readme) is an npm package that enables easy localization of your applications using OpenAI
 
 ## Getting Started
 
