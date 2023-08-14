@@ -1,6 +1,6 @@
 # Celsus-AI Organization
 
-![celsus-ai](https://img.shields.io/badge/celsus--ai-black?style=for-the-badge&labelColor=yellow&logoColor=white&label=AI%20Based%20Libraries|Tools|Products)
+![celsus-ai](https://img.shields.io/badge/celsus--ai-black?style=for-the-badge&labelColor=red&logoColor=white&label=AI%20Based%20Libraries|Tools|Products)
 
 Welcome to the Celsus-AI Organization! We are dedicated to developing cutting-edge AI-based libraries, tools, and products. Our mission is to empower developers and businesses with innovative solutions that leverage artificial intelligence.
 
