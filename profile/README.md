@@ -43,7 +43,7 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) for more informatio
 
 ## Contact
 
-If you have any questions, suggestions, or inquiries, you can reach out to us at contact@celsus-ai.com. We value your feedback and are always ready to assist you.
+If you have any questions, suggestions, or inquiries, you can reach out to us at harunkelesoglu_@hotmail.com. We value your feedback and are always ready to assist you.
 
 ## License
 
