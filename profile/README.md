@@ -2,39 +2,15 @@
 
 ![celsus-ai](https://img.shields.io/badge/celsus--ai-black?style=for-the-badge&labelColor=red&logoColor=white&label=AI%20Based%20Libraries|Tools|Products)
 
-Welcome to the Celsus-AI Organization! We are dedicated to developing cutting-edge AI-based libraries, tools, and products. Our mission is to empower developers and businesses with innovative solutions that leverage artificial intelligence.
+## Manifest
 
-## Vision
+The journey begins by embracing the immense potential of artificial intelligence, witnessing a turning point with OpenAI. We believe that this revolutionary change will bring about a staggering transformation in many sectors. Our unwavering belief is that the creative destruction accompanying this evolution will provide a pragmatic approach to industries, leading to profound changes in some.
 
-Our vision is to create a world where AI technologies are accessible to everyone, enabling accelerated development and driving innovation across industries. We believe that AI has the power to revolutionize the way we build applications, solve complex problems, and enhance user experiences.
+Throughout the history of technology, from operating systems to search engines, social networks to smartphone applications, and from cloud systems to Bitcoin, we have observed how creatively competitive products, grounded in science, have climbed to the top. This experience underscores the importance of fundamental knowledge; without grasping the fundamentals of a science, we cannot generate creative solutions in that field, and we firmly believe that mastering these foundations makes individuals more productive.
 
-## Repository Overview
+Celsus AI embarks on this journey with a vision. Our goal is to expand the ocean of knowledge with articles and short lecture notes that provide in-depth information on the foundations of artificial intelligence. Simultaneously, we transform theoretical knowledge not just into thought but into action and success, making artificial intelligence-based libraries, tools, and products tangible realities. We know that theory, without being put into practice, is like a dry seed; yet, when put into action, it takes root and bears fruit like a flourishing tree.
 
-This repository serves as the central hub for all our projects and products. Here, you will find a collection of AI-based libraries, tools, and products that can help streamline your development process, improve productivity, and unlock new possibilities.
-
-## Features
-
-- AI-based libraries that simplify complex tasks
-- AI-based cli tools to enhance development workflows and productivity
-- Products that address real-world challenges using AI technologies
-- Active community support and collaboration
-
-## Libraries
-
-- <strong><u>Localize AI:</u></strong> The [`celsus-ai/localize`](https://www.npmjs.com/package/@celsus-ai/localize#readme) is an npm package that enables easy localization of your applications using OpenAI
-
-## Getting Started
-
-To get started with the Celsus-AI Organization and explore our projects, follow these steps:
-
-1. Visit our [GitHub organization page](https://github.com/celsus-ai) to see the full list of repositories.
-
-2. Choose a project that interests you and click on its repository to view more details.
-
-3. Each repository contains its own README.md file with specific instructions on installation, usage, and contribution guidelines. Please refer to the respective repository's README file for detailed information.
-
-4. Feel free to explore, use, and contribute to our projects. We welcome contributions from the open-source community and value the diverse perspectives and expertise that can help us grow.
-
+Our motto: "Knowledge is power on its own, but it only becomes infinitely valuable when shared." This value is the guiding light of our journey because we understand that this value will form the foundation of a future where each of us not only acquires knowledge but also contributes to its growth by sharing.
 ## Contributing
 
 We appreciate and encourage contributions from the community. If you have any ideas, bug reports, or feature requests, please feel free to open an issue or submit a pull request in the respective repository. Your contributions will help improve our projects and make a positive impact on the developer community.
@@ -43,7 +19,7 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) for more informatio
 
 ## Contact
 
-If you have any questions, suggestions, or inquiries, you can reach out to us at harunkelesoglu_@hotmail.com. We value your feedback and are always ready to assist you.
+If you have any questions, suggestions, or inquiries, you can reach out to us at ia.celsus@gmail.com. We value your feedback and are always ready to assist you.
 
 ## License
 
