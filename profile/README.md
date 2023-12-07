@@ -1,4 +1,4 @@
-# Celsus-AI Organization
+# CELSUS AI Organization
 
 ![celsus-ai](https://img.shields.io/badge/celsus--ai-black?style=for-the-badge&labelColor=red&logoColor=white&label=AI%20Based%20Libraries|Tools|Products)
 
