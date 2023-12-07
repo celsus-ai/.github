@@ -1,6 +1,6 @@
 # CELSUS AI Organization
 
-![celsus-ai](https://img.shields.io/badge/celsus--ai-black?style=for-the-badge&labelColor=red&logoColor=white&label=AI%20Based%20|%20Math%20|%20Algorithms%20|%20Libraries|Tools|Products)
+![celsus-ai](https://img.shields.io/badge/celsus--ai-black?style=for-the-badge&labelColor=red&logoColor=white&label=AI%20Based%20Maths|Algorithms|Libraries|Tools|Products)
 
 ## Manifest
 
