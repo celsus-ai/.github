@@ -19,7 +19,7 @@ Please review our [Contribution Guidelines](CONTRIBUTING.md) for more informatio
 
 ## Contact
 
-If you have any questions, suggestions, or inquiries, you can reach out to us at ia.celsus@gmail.com. We value your feedback and are always ready to assist you.
+If you have any questions, suggestions, or inquiries, you can reach out to us at ai.celsus@gmail.com. We value your feedback and are always ready to assist you.
 
 ## License
 
